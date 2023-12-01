@@ -25,3 +25,7 @@ Once installed, the mod automatically synchronizes the main hand preferences of 
 ## Contribution
 
 Feel free to contribute to the development of this mod by submitting issues or pull requests. Your feedback and contributions are highly appreciated.
+
+## License
+
+This project is licensed under the [MIT license](LICENSE).

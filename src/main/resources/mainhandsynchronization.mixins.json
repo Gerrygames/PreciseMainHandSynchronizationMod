@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.example.mixin",
+	"package": "de.gerrygames.mainhandsynchronization.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"PlayerMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

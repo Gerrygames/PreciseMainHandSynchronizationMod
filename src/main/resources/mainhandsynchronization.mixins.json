@@ -3,7 +3,8 @@
 	"package": "de.gerrygames.mainhandsynchronization.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"PlayerMixin"
+		"PlayerMixin",
+		"ToggleAnimations"
 	],
 	"injectors": {
 		"defaultRequire": 1
